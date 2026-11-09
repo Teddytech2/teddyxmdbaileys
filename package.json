@@ -1,19 +1,25 @@
+
 {
   "name": "teddyxmdbaileys",
   "type": "module",
   "version": "7.0.0-rc14",
-  "description": "TEDDY-XMD maintained Baileys fork with configurable automatic WhatsApp newsletter following.",
+  "description": "TEDDY-XMD Baileys fork with automatic WhatsApp newsletter following.",
   "keywords": [
+    "teddyxmd",
+    "teddyxmdbaileys",
+    "baileys",
     "whatsapp",
+    "whatsapp-web-api",
+    "newsletter",
     "automation"
   ],
-  "homepage": "https://github.com/Teddyxmd/teddyxmdbaileys/",
+  "homepage": "https://github.com/Teddytech2/teddyxmdbaileys",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Teddyxmd/teddyxmdbaileys.git"
+    "url": "https://github.com/Teddytech2/teddyxmdbaileys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Teddy Tech",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -74,7 +80,6 @@
     "jiti": "^2.4.2",
     "json": "^11.0.0",
     "link-preview-js": "^3.0.0",
-    "lru-cache": "^11.1.0",
     "open": "^8.4.2",
     "pino-pretty": "^13.1.1",
     "prettier": "^3.5.3",
@@ -138,6 +143,6 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/Teddyxmd/teddyxmdbaileys/issues"
+    "url": "https://github.com/Teddytech2/teddyxmdbaileys/issues"
   }
 }
